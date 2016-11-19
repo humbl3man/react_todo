@@ -1,0 +1,12 @@
+@import '_global.scss';
+
+.jumbotron {
+	background-color: $blue;
+	background-image: radial-gradient(circle, $blue 5%, scale_color($blue, $lightness: -25%));
+	h1 {
+		color: #fff;
+	}
+}
+
+.btn, 
+.form-control { border-radius: 0; }
