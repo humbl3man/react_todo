@@ -1,8 +1,4 @@
-# Webpack starter kit
-This kit is in early alpha version.
-
-## How to use it
-If you would like to try out my starter kit, please follow these steps
+# React TODO list
 
 **Prerequisites: Node.JS**
 
